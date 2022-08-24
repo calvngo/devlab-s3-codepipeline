@@ -187,8 +187,8 @@ cd ~/environment/devlab-s3-codepipeline
 
 ### Survey
 
-Thank you for participating in this lab. Please leave us feedback to let us know how we did and for us to improve in future labs. If the QR code below doesn't work, you can click on the link [here](https://eventbox.dev/survey/0GYX1KB).
+Thank you for participating in this lab. Please leave us feedback to let us know how we did and for us to improve in future labs. If the QR code below doesn't work, you can click on the link [here](https://eventbox.dev/survey/S7CF9TH).
 
-![Survey QR Code](images/qr_code.png)
+![Survey QR Code](/images/qr_code.png)
 
 
