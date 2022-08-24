@@ -3,7 +3,7 @@
 
 This lab walks you through the steps to host and deploy [static websites to S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) using CodePipeline. A static website comprises of individual webpages including static content. They might also contain client-side scripts. [AWS CodePipeline](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) is a continuous delivery service you can use to model, visualize, and automate the steps required to release your software. 
 
-This lab is set to Level 100, hence participants are not required to have any specific knowledge of AWS. The lab will take ~10-15 minutes to complete.
+This lab is set to Level 100, hence participants are not required to have any specific knowledge of AWS. The lab will take ~15 minutes to complete.
 
 
 ## Let's get started
